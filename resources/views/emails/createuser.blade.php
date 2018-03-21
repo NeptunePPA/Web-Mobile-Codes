@@ -1,0 +1,1 @@
+Your login details for Neptune-PPA Admin.<br/><b>Email:</b>{{$email}}<br/><b>Password:</b>{{$password}}

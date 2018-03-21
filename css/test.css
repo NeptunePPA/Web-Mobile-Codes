@@ -1,0 +1,16 @@
+.main-block{
+		background-image:url(../images/modal-bg.png), url(../images/modal2.png);
+		height:150px;
+		background-repeat:no-repeat;
+		background-position:left top, right top;
+}
+.listing{
+	float:left;
+}
+.listing  .list{
+	float:initial;
+	width:250px;
+	border:#ff0000 1px solid;
+	padding:10px;
+	vertical-align:middle;
+}

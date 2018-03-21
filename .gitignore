@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+-Copy.env
+/public/upload
+/public/securemailmedia
+/upload
+/public/category
+icalender.ics
+.idea
+public/category
+public/dashboard
